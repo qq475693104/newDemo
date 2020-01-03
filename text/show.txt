@@ -1,4 +1,9 @@
 我刚开始创建的
 远的不是距离，而是次元
 sdsd
+<<<<<<< HEAD
 new changge
+=======
+
+start maven
+>>>>>>> branch 'master' of ssh://git@github.com/qq475693104/newDemo.git
